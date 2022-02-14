@@ -1,0 +1,20 @@
+
+.textsearch{
+  border:none;
+  border-radius: 15px;
+  background-color: aqua;
+}
+.center{
+    text-align: center;
+}
+.card{
+    background-color: lavenderblush;
+    opacity: 0.8;
+}
+body{
+ background-image: url('https://4.bp.blogspot.com/-20SvPw-E058/WIgAOWpU2oI/AAAAAAAAQUg/h9YboZ3gtUUlLrnvD2MHmrXwOfI1KjnAQCLcB/s1600/words7.jpg');
+ background-repeat: no-repeat;
+ background-attachment: fixed; 
+ background-size: 100% 100%;
+}
+
